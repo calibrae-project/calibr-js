@@ -1,5 +1,7 @@
-# Steem.js
-Steem.js the JavaScript API for Steem blockchain
+![](https://raw.githubusercontent.com/calibrae-project/assets/master/calibrae-header.png)
+
+# calibr.js
+calibr.js the JavaScript API for Calibrae Decentralised Distributed 
 
 # Documentation
 
