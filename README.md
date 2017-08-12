@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/calibrae-project/assets/master/calibrae-header.png)
 
 # calibr.js
-calibr.js the JavaScript API for Calibrae Decentralised Distributed 
+calibr.js the JavaScript API for Calibrae Decentralised Distributed Social Network
 
 # Documentation
 
